@@ -27,9 +27,28 @@ body {
 }
 
 .aoei{
+    font-size: large;
     display: flex;
-    gap: 10px;
+    gap: 100px;
     justify-content: center;
     margin: 40px;
+}
+
+.oi {
+    background-color: #F8F8FF;
+    border-radius: 20px;
+    padding-inline: 30px;
+    height: 400px;
+    padding: 10px;
+}
+
+
+.ai{
+    
+    background-color: #F8F8FF;
+    border-radius: 30px;
+    padding-inline: 30px;
+    height: 400px;
+    padding: 10px;
 }
 
