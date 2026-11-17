@@ -1,0 +1,3 @@
+function rawikran(){
+    alert("naja");
+}
