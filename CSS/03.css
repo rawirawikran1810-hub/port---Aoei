@@ -1,0 +1,43 @@
+#ion {
+    display: flex;
+    color: black;
+    justify-content: space-between;
+    background-color: #F8F8FF;
+    border-radius: 10px;
+    padding-inline: 10px;
+}
+
+body {
+    background-color: #808080;
+}
+
+.bt {
+    display: flex;
+    justify-content: end;
+
+}
+
+.btt {
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+.aoei{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin: 40px;
+}
+
+.BTall {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.rawi {
+position: fixed;
+    bottom: 0;
+    
+}

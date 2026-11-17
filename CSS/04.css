@@ -1,0 +1,17 @@
+#ion {
+    display: flex;
+    color: black;
+    justify-content: space-between;
+    background-color: #F8F8FF;
+    border-radius: 10px;
+    padding-inline: 10px;
+}
+
+body {
+    background-color: #808080;
+}
+
+.btt {
+    display: flex;
+    justify-content: flex-start;
+}

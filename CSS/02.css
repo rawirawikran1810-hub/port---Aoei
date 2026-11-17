@@ -1,0 +1,44 @@
+.ion {
+    display: flex;
+    color: black;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F8F8FF;
+    border-radius: 10px;
+    padding-inline: 10px;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+
+}
+
+body {
+    background-color: #808080;
+}
+
+.pio {
+    font-size: 20px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    
+}
+
+.bt {
+    display: flex;
+    justify-content: end;
+
+}
+
+.btt {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.rawi{
+    background-color: #F8F8FF;
+    border-radius: 10px;
+    padding-inline: 10px;
+}
