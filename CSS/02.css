@@ -27,14 +27,18 @@ body {
 }
 
 .bt {
-    display: flex;
-    justify-content: end;
+     position: fixed;
+   bottom: 10px;
+   right: 10px;
+  
 
 }
 
 .btt {
-    display: flex;
-    justify-content: flex-start;
+     position: fixed;
+   bottom: 10px;
+   left: 10px;
+  
 }
 
 .rawi{

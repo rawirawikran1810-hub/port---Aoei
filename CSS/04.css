@@ -12,6 +12,8 @@ body {
 }
 
 .btt {
-    display: flex;
-    justify-content: flex-start;
+     position: fixed;
+   bottom: 10px;
+   left: 10px;
+  
 }
